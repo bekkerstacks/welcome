@@ -26,6 +26,9 @@ mon_grafana
 
 ## More
 
-- [Deploy a Local Docker Swarm](https://github.com/bekkerstacks/docker-swarm)
-- [Deploy Traefik](https://github.com/bekkerstacks/traefik)
-- [Deploy a Monitoring Stack](https://github.com/bekkerstacks/docker-swarm)
+- [Deploy a Local Docker Swarm: bekkerstacks/docker-swarm](https://github.com/bekkerstacks/docker-swarm)
+- [Deploy Traefik: bekkerstacks/traefik](https://github.com/bekkerstacks/traefik)
+- [Deploy a Monitoring Stack: bekkerstacks/monitoring-cpang](https://github.com/bekkerstacks/monitoring-cpang)
+
+The others:
+- https://github.com/bekkerstacks?tab=repositories
