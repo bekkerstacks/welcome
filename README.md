@@ -1,5 +1,5 @@
 # Welcome
-Welcome to Bekker Stacks
+Package Manger / Templated Application Repository
 
 ## About
 
