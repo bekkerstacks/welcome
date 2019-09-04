@@ -1,6 +1,8 @@
 # Welcome
 Package Manger / Templated Application Repository
 
+![image](https://user-images.githubusercontent.com/50801771/64287218-67b0e600-cf5f-11e9-8fe7-f36cb8e71f6f.png)
+
 ## About
 
 The idea is to have a package manager for docker swarm applications
